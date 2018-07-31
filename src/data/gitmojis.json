@@ -404,6 +404,13 @@
 			"code": ":camera_flash:",
 			"description": "Adding or updating snapshots",
 			"name": "camera-flash"
+		},
+		{
+			"emoji": "🛠",
+			"entity": "&#128736;" ,
+			"code": ":hammer_and_wrench:",
+			"description": "Creating or modifying an Xcode project",
+			"name": "hammer-and-wrench"
 		}
 	]
 }
